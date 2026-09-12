@@ -34,12 +34,11 @@ Fullstack developer with experience in HTML, CSS, JavaScript, TypeScript, React,
   * *Tech stack:* JavaScript, HTML5, CSS3, REST API.
   * *Features:* Interactive pet adoption catalog, real-time filtering, external API integration, and dynamic UI components.
 ---
-
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=karnaukhalina15-jpg&show_icons=true&theme=radial&hide_border=true" alt="Alina's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=karnaukhalina15-jpg&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
