@@ -29,7 +29,7 @@ Fullstack developer with experience in HTML, CSS, JavaScript, TypeScript, React,
   * *Tech stack:* HTML5, CSS3.
   * *Key contributions:* Developed fullstack features, integrated REST APIs, conducted code reviews, and collaborated in an Agile/Scrum team environment.
 
-* **[Home Friends](https://github.com/yourusername/home-friends)** | [Live Demo](https://yourusername.github.io/home-friends/)
+* **[Home Friends](https://github.com/Avelexis/project-Home_Friends)** | [Live Demo](https://avelexis.github.io/project-Home_Friends/)
   * Responsive web application for browsing and adopting pets.
   * *Tech stack:* JavaScript, HTML5, CSS3, REST API.
   * *Features:* Interactive pet adoption catalog, real-time filtering, external API integration, and dynamic UI components.
