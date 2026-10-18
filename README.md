@@ -24,7 +24,7 @@ Fullstack developer with experience in HTML, CSS, JavaScript, TypeScript, React,
 
 ### 💻 Featured Projects
 
-* **[TrueBalance](https://github.com/yourusername/truebalance)** | [Live Demo](https://yourusername.github.io/truebalance/)
+* **[TrueBalance](https://github.com/artem-kovalchuk-1092/project-TrueBalance) | [Live Demo](https://artem-kovalchuk-1092.github.io/project-TrueBalance/)
   * Fullstack web application for personal finance tracking and balance management.
   * *Tech stack:* HTML5, CSS3.
   * *Key contributions:* Developed fullstack features, integrated REST APIs, conducted code reviews, and collaborated in an Agile/Scrum team environment.
